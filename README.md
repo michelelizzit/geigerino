@@ -15,7 +15,7 @@ An upgraded version of the project, that includes a display and configurable sof
 
 ## Schematics
 
-![Schematics](/schematics.png)
+![Schematics](/schematic.png)
 
 | Arduino pin | |
 |---|---|
